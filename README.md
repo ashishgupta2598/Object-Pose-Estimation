@@ -1,7 +1,7 @@
 # Object-Pose-Estimation
 As the data contatins too many files and its difficult to upload all, So i created a .npy folder.Link below in the text.
-Training_Label(Target) Data----https://drive.google.com/open?id=11oIPnNgjuyreib2hvoDPoQYYtOtBRpAB
-Training_Images---https://drive.google.com/open?id=1gOaDUXZZAKImdNlMdjWtj3cjj9o4Q1Cw
+Training_Label(Target) Data----https://drive.google.com/open?id=11oIPnNgjuyreib2hvoDPoQYYtOtBRpAB \
+Training_Images---https://drive.google.com/open?id=1gOaDUXZZAKImdNlMdjWtj3cjj9o4Q1Cw \
 
 
 Original Dataset Links-
