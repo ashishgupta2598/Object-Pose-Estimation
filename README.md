@@ -10,5 +10,9 @@ ShapeNet rendered images http://cvgl.stanford.edu/data2/ShapeNetRendering.tgz
 In the Original Dataset the rendering parameters are given. In each rendering folder, there is a metadata file for all images. Each row describes the parameters for an image. The first three numbers are pitch, roll, yaw, the fourth number is the distance between the center of the object and the camera. The fifth number is half of the camera FOV.Here as the images are CAD designed so translation is 0(tx,ty,tz).
 
 
-
 ![oie_1yR1kSNeiNa5](https://user-images.githubusercontent.com/40520042/64719962-fe911b80-d4e6-11e9-88c0-6b941905de53.png)
+
+### To Learn about Pose estimation or What Pose actually is follow these courses/blogs/papers-
+1.https://www.coursera.org/learn/robotics-perception<br>
+2.https://medium.com/@ashishgupta_65016/constructing-visual-hull-for-3d-object-reconstruction-1552aded5b8<br>
+
